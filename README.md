@@ -1,2 +1,1 @@
-# blindgefragt
-Antworten auf Alltagsfragen blinder und sehbehinderter Menschen.
+BlindGefragt ist eine barrierearme Internetplattform, die Alltagsfragen blinder und sehbehinderter Menschen verständlich beantwortet. Im Mittelpunkt stehen nicht einzelne Hilfsmittel, sondern konkrete Probleme aus dem Alltag und passende Lösungen. Die Website wird von Anfang an für Smartphone, VoiceOver und andere Screenreader optimiert und soll sich wie eine moderne App bedienen lassen.
